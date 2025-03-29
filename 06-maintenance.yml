@@ -6,4 +6,8 @@
     - name: update maintenance page
       copy:
         src: maintenance.html
+<<<<<<< HEAD
         dest: /var/www/html/index.html
+=======
+        dest: /var/www/html/index.html
+>>>>>>> 9e222bc17ec1c9744ff63f41264f7591d203f72d
